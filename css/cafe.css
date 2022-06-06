@@ -1,0 +1,28 @@
+.fondoBarra {
+    width: 100%;
+    height: 90px;
+    margin-top: 5px;
+    background-color; color: peru;
+}
+    
+    .barra{
+        width:90%;
+        height: 40px;
+        background-color: rgb(168, 183, 125);
+
+    }
+    .men li{
+        display: inline;
+        background-color: rgba(0, 0, 255, 0, 6);
+    }
+.men li:hover{
+    background-color: brown;
+
+}
+.fondo{
+    background-color: red;
+    width: 100px;
+    height: 30px;
+}
+
+    
